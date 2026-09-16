@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,vscode" alt="skills" />
 </p>
 
 ### 👩‍💻 About Me
