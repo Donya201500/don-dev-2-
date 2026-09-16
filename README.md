@@ -4,12 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,git,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,,vscode" alt="skills" />
 </p>
 
 ### 👩‍💻 About Me
 - 🌐 Web Designer & Programmer
 - 🐍 Python | JavaScript
-- 🎨 HTML | CSS | Figma
-- 🌱 Always learning & creating
-- 💬 Ask me about web design & code
+- 🎨 HTML | CSS
+
